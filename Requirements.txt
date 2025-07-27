@@ -1,0 +1,8 @@
+
+
+Pandas
+Numpy
+Scikit-learn
+Flask
+Pickle
+gunicorn

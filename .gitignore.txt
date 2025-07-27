@@ -1,0 +1,25 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+
+# Virtual environment folders
+venv/
+.env/
+
+# Dataset and data outputs
+data/
+*.csv
+
+# Log files
+*.log
+
+# Credentials and secrets
+*.env
+apikey.txt
+
+# Database files
+*.sqlite3
